@@ -1,8 +1,8 @@
-# Digital Innovation One
+# Digital Innovation One - Desafio Final
 
-Código criado para utilização junto a plataforma da Digital Innovation One
+Código criado para utilização junto a plataforma da Digital Innovation One, referente ao Bootcamp "Banco Carrefour Data Engineer".
 
-<p align="center"><img src="./DIO.png" width="500"></p>
+
 
 ## Desafio GCP Dataproc
 
@@ -34,8 +34,4 @@ O desafio consiste em efetuar um processamento de dados utilizando o produto Dat
 
 ### Considerações Finais
 
-NOTA: Se o Job mostrar um WARN de Interrupt, basta ignorar. Existe um bug no Hadoop que é conhecido. Isso não impacta no processamento.
-
-Qualquer outra dúvida, informação ou sugestão, fique a vontade para entrar em contato.
-
-marcelo@smarques.com
+Agradeço aos Professores pelo carinho e atenção! 
